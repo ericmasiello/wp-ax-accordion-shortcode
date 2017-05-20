@@ -1,0 +1,7 @@
+[aria-hidden="true"] {
+  display: none;
+}
+
+[role="button"] {
+  cursor: pointer;
+}
